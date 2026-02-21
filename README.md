@@ -1,5 +1,6 @@
 # Installation
-1. Unzip the downloaded file
-2. Go to chrome://extensions/ in Chromium
-3. Enable Developer mode (top-right toggle)
-4. Click "Load unpacked" and select the yt-seeker folder
+- Clone the repo
+  ```git clone https://github.com/kabir1439/yt-seeker.git```
+- Go to Extension Settings in your Chromium-based browser
+- Enable Developer mode (top-right toggle)
+- Click "Load unpacked" and select the yt-seeker folder
